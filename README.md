@@ -1,2 +1,2 @@
-# track-telegram-bot
-A telegram bot to track postal orders
+# rastreio-de-pacotes-bot
+Um bot do telegram para te ajudar a acompanhar o status dos seus pacotes
